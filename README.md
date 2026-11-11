@@ -1,6 +1,6 @@
 # 企业知识库智能助手
 
-一个面向求职展示的多用户企业知识库 RAG 后端。项目使用 FastAPI、异步
+多用户企业知识库 RAG 后端。项目使用 FastAPI、异步
 SQLAlchemy、PostgreSQL/pgvector、Redis 和 Celery，核心文档处理与后续检索生成流程
 使用原生 Python 实现，不依赖 LangChain。
 
